@@ -1,0 +1,8 @@
+[submodule "modules/products-service"]
+	path = modules/products-service
+	url = https://github.com/jp-gonzalez2303/products-service.git
+	branch = develop
+[submodule "modules/inventory-service"]
+	path = modules/inventory-service
+	url = https://github.com/jp-gonzalez2303/inventory-service.git
+	branch = develop
