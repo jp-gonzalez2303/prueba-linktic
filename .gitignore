@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+ 
+# Gradle
+.gradle/
+**/build/
+!src/**/build/
+
+# Spring Boot
+*.log
+logs/
+
+
+# JaCoCo
+jacoco.exec
+jacocoTestReport/
+
+# Test reports
+test-results/
+reports/ 
